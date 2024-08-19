@@ -1,0 +1,9 @@
+build/
+
+cmake-build-*/
+
+# Ignore all user-specific files
+
+*.user
+*.txt
+!*CMakeLists.txt 
